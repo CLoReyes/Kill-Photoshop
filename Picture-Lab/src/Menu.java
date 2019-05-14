@@ -69,38 +69,69 @@ public class Menu {
 		
 		}
 		
-		PictureTester.changeStache();
+//		PictureTester.changeStache();
 //		PictureTester.testZeroBlue();
-	//  this works  PictureTester.keepOnlyBlue();
-	//	PictureTester.mirrorDiagonal();
-	//	this works	PictureTester.mirrorArms();
-	//	this works 	PictureTester.negate();
-	//	this works	PictureTester.grayscale();
-	 // this works  	PictureTester.fixUnderwater();
-
+//		
+////		this works
+//		PictureTester.keepOnlyBlue();
+//		PictureTester.mirrorDiagonal();
+//		
+////		this works
+//		PictureTester.mirrorArms();
+////		this works
+//		PictureTester.negate();
+//		
+////		this works
+//		PictureTester.grayscale();
+//		
+////	 	this works
+//		PictureTester.fixUnderwater();
+//
 //	    PictureTester.testKeepOnlyRed(); ----- eric
 //	    PictureTester.testKeepOnlyGreen(); ------ eric 
 //	    PictureTester.testMirrorVertical(); -------- eric
-		
-		
-//		 this works i hope 		PictureTester.mirrorHorizontal();
-//		 this works  i hope 		PictureTester.mirrorHorizontalBotToTop();
-//		this works	    PictureTester.mirrorVerticalRightToLeft();
-//		this works 		PictureTester.testMirrorTemple();
-//    PictureTester.testMirrorArms();
+//		
+//		
+////		this works (I hope)
+//		PictureTester.mirrorHorizontal();
+//		
+////		this works (I hope)
+//		PictureTester.mirrorHorizontalBotToTop();
+//		
+////		this works
+//		PictureTester.mirrorVerticalRightToLeft();
+//		
+////		this works
+//		PictureTester.testMirrorTemple();
+//		PictureTester.testMirrorArms();
 //	    PictureTester.testMirrorGull();
 //	    PictureTester.testMirrorDiagonal();
-//    PictureTester.testCollage();
+//    	PictureTester.testCollage();
 //	    PictureTester.testCopy();
-//    this works	    PictureTester.testEdgeDetection();
-//		this does not work	    PictureTester.testEdgeDetection2();
-// 		this does not work	    PictureTester.testChromakey();
-//		this does not work	    PictureTester.testEncodeAndDecode();
-//		this does not work	    PictureTester.testGetCountRedOverValue(250);
-// this does not work	    PictureTester.testSetRedToHalfValueInTopHalf();
-// this does not work	    PictureTester.testClearBlueOverValue(200);
-//	 this does not work    PictureTester.testGetAverageForColumn(0);	
 //		
+////    	this works
+//		PictureTester.testEdgeDetection();
+//		
+////		this does not work
+//		PictureTester.testEdgeDetection2();
+//		
+//// 		this does not work
+//		PictureTester.testChromakey();
+//		
+////		this does not work
+//		PictureTester.testEncodeAndDecode();
+//		
+////		this does not work
+//		PictureTester.testGetCountRedOverValue(250);
+//		
+////		this does not work
+//		PictureTester.testSetRedToHalfValueInTopHalf();
+//		
+//// 		this does not work
+//		PictureTester.testClearBlueOverValue(200);
+//		
+////	 	this does not work
+//		PictureTester.testGetAverageForColumn(0);		
 
 	}	
 
