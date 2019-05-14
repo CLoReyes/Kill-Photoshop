@@ -139,5 +139,10 @@ public class PictureTester
     swan.edgeDetection(10);
     swan.explore();
   }
+  
+  public static void testChromakey()
+  {
+	  
+  }
  
 }
