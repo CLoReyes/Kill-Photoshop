@@ -106,7 +106,7 @@ public class Menu {
 //		PictureTester.testMirrorArms();
 //	    PictureTester.testMirrorGull();
 //	    PictureTester.testMirrorDiagonal();
-//    	PictureTester.testCollage();
+//    	PictureTester.testCollage();+
 //	    PictureTester.testCopy();
 //		
 ////    	this works
